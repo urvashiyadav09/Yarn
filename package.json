@@ -1,0 +1,12 @@
+{
+  "name": "workflow2-module-assignment-qu8",
+  "version": "1.0.0",
+  "description": "Add jquery as a dependency using Yarn.",
+  "main": "index.js",
+  "repository": "https://github.com/urvashiyadav09/Yarn.git",
+  "author": "Urvashi Devi",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
